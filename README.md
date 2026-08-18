@@ -224,6 +224,8 @@ results/
 ├─ travel_2026-08-20_20260818_125743.json
 └─ travel_2026-08-20_20260818_125743.md
 ```
+<img width="927" height="433" alt="main 실행 샷" src="https://github.com/user-attachments/assets/e49802f5-1ade-458b-9a94-ea31be013a86" />
+
 
 ###  JSON 파일
 
@@ -382,6 +384,13 @@ Markdown 리포트 저장 완료
 ```
 
 ---
+“파이썬 CLI 프로그램을 실행한 뒤 자동 생성된 여행 추천 Markdown 리포트 파일을 Windows 메모장에서 열어 확인한 화면입니다.”
+
+
+<img width="900" height="735" alt="리포트 파일01" src="https://github.com/user-attachments/assets/12737047-3092-40ae-9547-d13689b9f819" />
+<img width="910" height="857" alt="리포트 파일02" src="https://github.com/user-attachments/assets/46c21879-51e6-40fa-a6e0-5e05cfe2db8d" />
+<img width="915" height="765" alt="리포트 파일03" src="https://github.com/user-attachments/assets/f8052bc7-4506-4c42-936b-93e4c08f9b78" />
+
 
 ##  프로젝트 요약
 
